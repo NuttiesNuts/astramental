@@ -14,7 +14,7 @@ import java.util.function.Supplier;
 public class AstraItems {
     private static final DeferredRegister<Item> ITEMS = DeferredRegister.create(AstraMod.MOD_ID, Registries.ITEM);
 
-    private static RegistrySupplier<Item> ASTRA_ORB;
+    public static RegistrySupplier<Item> ASTRA_ORB;
 
     public static void init() {
         ASTRA_ORB = registerItem("astra_orb", () -> new OrbItem(new Item.Properties().arch$tab(CreativeModeTabs.COMBAT)));

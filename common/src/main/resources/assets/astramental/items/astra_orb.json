@@ -1,6 +1,6 @@
 {
   "model": {
     "type": "minecraft:model",
-    "model": "astramental:item/orb"
+    "model": "astramental:item/astra_orb"
   }
 }
