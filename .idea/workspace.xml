@@ -4,68 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e76d7183-bf51-4ee8-91cd-6d00c5bda295" name="Changes" comment=":tada: Begin Project!">
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/checksums.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/md5-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/md5-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/checksums/sha1-checksums.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/executionHistory/executionHistory.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/fileHashes.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/8.14/fileHashes/resourceHashesCache.bin" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/8.14/fileHashes/resourceHashesCache.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/buildOutputCleanup/buildOutputCleanup.lock" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gradle/file-system.probe" beforeDir="false" afterPath="$PROJECT_DIR$/.gradle/file-system.probe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/jarRepositories.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/jarRepositories.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___fabric__fabric.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/runConfigurations/Minecraft_Server___neoforge__neoforge.xml" afterDir="false" />
+    <list default="true" id="e76d7183-bf51-4ee8-91cd-6d00c5bda295" name="Changes" comment="bro what">
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/gradle.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build/reports/problems/problems-report.html" beforeDir="false" afterPath="$PROJECT_DIR$/build/reports/problems/problems-report.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build/classes/java/main/uk/sigma_co/init/AstraItems.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/classes/java/main/uk/sigma_co/init/AstraItems.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build/classes/java/main/uk/sigma_co/item/OrbItem.class" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/classes/java/main/uk/sigma_co/item/OrbItem.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build/devlibs/astramental-common-1.0.0-dev.jar" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/devlibs/astramental-common-1.0.0-dev.jar" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build/tmp/compileJava/compileTransaction/stash-dir/AstraItems.class.uniqueId0" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/tmp/compileJava/compileTransaction/stash-dir/AstraItems.class.uniqueId0" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build/tmp/compileJava/compileTransaction/stash-dir/OrbItem.class.uniqueId1" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/tmp/compileJava/compileTransaction/stash-dir/OrbItem.class.uniqueId1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/common/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/uk/sigma_co/init/AstraItems.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/uk/sigma_co/init/AstraItems.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/java/uk/sigma_co/item/OrbItem.java" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/java/uk/sigma_co/item/OrbItem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/items/astra_orb.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/items/astra_orb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/models/item/astra_orb.json" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/models/item/astra_orb.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/textures/item/orb/astra_orb.png.mcmeta" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/textures/item/orb/astra_orb.png.mcmeta" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/textures/item/orb/orb.aseprite" beforeDir="false" afterPath="$PROJECT_DIR$/common/src/main/resources/assets/astramental/textures/item/orb/orb.aseprite" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/.gradle/architectury/.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/.gradle/architectury/.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/.gradle/loom-cache/remapClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/.gradle/loom-cache/remapClasspath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/build/resources/main/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build/resources/main/fabric.mod.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/build/tmp/compileJava/previous-compilation-data.bin" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/build/tmp/compileJava/previous-compilation-data.bin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/.architectury-transformer/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/.architectury-transformer/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/config/fabric/indigo-renderer.properties" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/config/fabric/indigo-renderer.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/data/fabricDefaultResourcePacks.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/data/fabricDefaultResourcePacks.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-1.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-1.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-2.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-2.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-3.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-3.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-4.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-4.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug-5.log.gz" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug-5.log.gz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/debug.log" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/debug.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/logs/latest.log" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/logs/latest.log" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/DIM-1/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/DIM-1/data/raids.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/DIM1/data/raids_end.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/DIM1/data/raids_end.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/data/raids.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/data/raids.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/level.dat" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/level.dat" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/level.dat_old" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/level.dat_old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.-1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.-1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.-1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.-1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.0.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.0.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.0.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.0.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.1.-1.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.1.-1.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.1.0.mca" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/saves/TEST WORLD/region/r.1.0.mca" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/run/usercache.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/run/usercache.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/src/main/java/uk/sigma_co/fabric/datagen/AstraModDatagen.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/java/uk/sigma_co/fabric/datagen/AstraModDatagen.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/fabric/src/main/java/uk/sigma_co/fabric/datagen/AstraModEnglishLangProvider.java" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/java/uk/sigma_co/fabric/datagen/AstraModEnglishLangProvider.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neoforge/.gradle/architectury/.properties" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/.gradle/architectury/.properties" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neoforge/.gradle/loom-cache/forge_minecraft_classpath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/.gradle/loom-cache/forge_minecraft_classpath.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neoforge/.gradle/loom-cache/launch.cfg" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/.gradle/loom-cache/launch.cfg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/neoforge/.gradle/loom-cache/remapClasspath.txt" beforeDir="false" afterPath="$PROJECT_DIR$/neoforge/.gradle/loom-cache/remapClasspath.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fabric/src/main/resources/fabric.mod.json" beforeDir="false" afterPath="$PROJECT_DIR$/fabric/src/main/resources/fabric.mod.json" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -118,22 +62,22 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
-  "lastFilter": {
-    "state": "OPEN",
-    "assignee": "NuttiesNuts"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;NuttiesNuts&quot;
   }
-}]]></component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/NuttiesNuts/astramental.git",
-    "accountId": "2739e470-ceba-4c06-88f7-50e1e365bb2b"
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/NuttiesNuts/astramental.git&quot;,
+    &quot;accountId&quot;: &quot;2739e470-ceba-4c06-88f7-50e1e365bb2b&quot;
   }
-}]]></component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "customColor": "",
-  "associatedIndex": 2
-}]]></component>
+}</component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
   <component name="ProjectId" id="3EcVrXVE845bElTWjN3cUhWZulO" />
   <component name="ProjectLevelVcsManager">
     <ConfirmationsSetting value="2" id="Add" />
@@ -141,24 +85,25 @@
   <component name="ProjectViewState">
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "ASKED_MARK_IGNORED_FILES_AS_EXCLUDED": "true",
-    "Gradle.Astramental [:fabric:dev.architectury.transformer.TransformerRuntime.main()].executor": "Run",
-    "Gradle.Astramental [genSourcesWithCfr].executor": "Run",
-    "Gradle.Astramental [genSources].executor": "Run",
-    "Gradle.Astramental [remapSourcesJar].executor": "Run",
-    "Gradle.Build Astramental.executor": "Run",
-    "Gradle.Download Sources.executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "com.github.patou.gitmoji.migration-offered": "true",
-    "git-widget-placeholder": "master",
-    "ignore.virus.scanning.warn.message": "true",
-    "kotlin-language-version-configured": "true",
-    "last_opened_file_path": "C:/Users/dimuc/Documents/MC Repositories/Astramental"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;ASKED_MARK_IGNORED_FILES_AS_EXCLUDED&quot;: &quot;true&quot;,
+    &quot;Gradle.Astramental [:fabric:dev.architectury.transformer.TransformerRuntime.main()].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Astramental [genSourcesWithCfr].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Astramental [genSources].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Astramental [remapSourcesJar].executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Build Astramental.executor&quot;: &quot;Run&quot;,
+    &quot;Gradle.Download Sources.executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;com.github.patou.gitmoji.migration-offered&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;ignore.virus.scanning.warn.message&quot;: &quot;true&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/dimuc/Documents/MC Repositories/Astramental&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\dimuc\Documents\MC Repositories\Astramental" />
@@ -264,6 +209,19 @@
       <option name="presentableId" value="Default" />
       <updated>1780478046334</updated>
     </task>
+    <task id="LOCAL-00001" summary="bro what">
+      <option name="closed" value="true" />
+      <created>1780596621271</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1780596621271</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="bro what" />
+    <option name="LAST_COMMIT_MESSAGE" value="bro what" />
   </component>
 </project>

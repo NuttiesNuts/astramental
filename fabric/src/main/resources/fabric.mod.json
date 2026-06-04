@@ -9,7 +9,7 @@
   ],
   "contact": {
     "homepage": "https://modrinth.com/project/astramental",
-    "sources": ""
+    "sources": "https://github.com/NuttiesNuts/astramental"
   },
   "license": "MIT",
   "icon": "assets/astramental/icon.png",
