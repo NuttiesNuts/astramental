@@ -29,3 +29,4 @@ common/src/main/generated/.cache/
 # run
 fabric/run
 neoforge/run
+/fabric/run/
