@@ -30,3 +30,5 @@ common/src/main/generated/.cache/
 fabric/run
 neoforge/run
 /fabric/run/
+/common/build/
+/common/.gradle/

@@ -6,6 +6,7 @@
   "client": [
   ],
   "mixins": [
+    "NoFallDamage"
   ],
   "injectors": {
     "defaultRequire": 1
